@@ -9,7 +9,7 @@ import (
 var rng *rand.Rand
 
 // CreateRand initializes the random generator.
-func CreateRand() {
+func createRand() {
 	seed := time.Now().UnixNano()
 	src := rand.NewSource(seed)
 	rng = rand.New(src)
@@ -17,7 +17,7 @@ func CreateRand() {
 
 // random is a function that takes a slice of strings and returns a random string from the slice.
 func random(el []string) string {
-	CreateRand()
+	createRand()
 	return el[rng.Intn(len(el))]
 }
 
