@@ -108,5 +108,18 @@ func GetAdjectives() []string {
 		"Modest",
 		"Optimistically",
 		"Powerful",
+		"Boomer",
+		"Cringey",
+		"White",
+		"Black",
+		"Red",
+		"Blue",
+		"Robot",
+		"Walking",
+		"Living",
+		"Giant",
+		"Tiny",
+		"Hidden",
+		"Singular",
 	}
 }
