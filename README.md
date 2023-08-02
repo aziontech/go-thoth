@@ -5,11 +5,11 @@
 
 Introducing... "go-thoth" - the package inspired by the mighty Egyptian god "Thoth" for generating awesome names!
 
-Have no idea for the name of your project? Or your robot pet? Don't worry! With the go-thoth, you're going to rock your creativity!
+Have no idea how to name your project? Or your pet robot? Don't worry! With go-thoth, you're going to rock your creativity!
 
 Remember the god Thoth? That smart guy from ancient Egypt, master of words and wisdom. Now, he's here to help you come up with awesome and unique names.
 
-And the best of all? It's open source! If you want to give it that special touch, just work your magic on the code and share it with the crowd.
+And best of all? It's open source! If you want to give it that special touch, just work your magic on the code and share it with the crowd.
 
 To install go-thoth, simply run the following command in a terminal or command prompt:
 ```shell 
