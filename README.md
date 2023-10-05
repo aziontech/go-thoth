@@ -3,17 +3,30 @@
 [![MIT License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 [![Go Reference](https://img.shields.io/badge/reference-go-blue.svg)](https://github.com/aziontech/go-thoth)
 
-Introducing... "go-thoth" - the package inspired by the mighty Egyptian god "Thoth" for generating awesome names!
+Introducing "go-thoth", a package inspired by the Egyptian deity, Thoth, designed to generate unique and memorable names.
 
-Have no idea how to name your project? Or your pet robot? Don't worry! With go-thoth, you're going to rock your creativity!
+Struggling to name your new project or your latest robotic creation? Fear not! With go-thoth, you can unlock your creativity and find the perfect name.
 
-Remember the god Thoth? That smart guy from ancient Egypt, master of words and wisdom. Now, he's here to help you come up with awesome and unique names.
+### About Thoth
+Thoth, the ancient Egyptian god of wisdom and writing, was revered for his mastery over words. Drawing inspiration from Thoth, this package aims to help you create names that are not only unique but also imbued with a touch of divine wisdom.
 
-And best of all? It's open source! If you want to give it that special touch, just work your magic on the code and share it with the crowd.
+The best part? Go-thoth is open source! You can add your own special touch to the code and share your improvements with the community. For guidelines on how to contribute, please refer to our [Contributing Guidelines](CONTRIBUTING.md).
 
-To install go-thoth, simply run the following command in a terminal or command prompt:
+### How to use
+To utilize the go-thoth package in your projects, follow the steps below:
+
+1. Install go-thoth: Run the following command in your terminal or command prompt. This command fetches the go-thoth package from the GitHub repository and installs it on your system.
 ```shell 
 go get github.com/aziontech/go-thoth
 ```
-This will download and install go-thoth on your machine and it will be ready to use in your Go projects. Have fun creating epic names with the power of the god Thoth! 🚀🔥🧙
-
+2. Import go-thoth: Once installed, you can import the go-thoth package into your Go projects. Use the import statement at the beginning of your Go file as shown below:
+```go
+import (
+thoth "github.com/aziontech/go-thoth"
+)
+```
+3. Generate names: With go-thoth imported, you can now generate unique and memorable names. Use the `GenerateName()` function from the go-thoth package. Here's an example:
+```go
+name := thoth.GenerateName()
+```
+With these steps, you can harness the power of go-thoth to create unique and memorable names, inspired by the wisdom of the god Thoth! Enjoy your journey of name creation! 🚀🔥🧙
