@@ -3,17 +3,18 @@
 [![MIT License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 [![Go Reference](https://img.shields.io/badge/reference-go-blue.svg)](https://github.com/aziontech/go-thoth)
 
-Introducing... "go-thoth" - the package inspired by the mighty Egyptian god "Thoth" for generating awesome names!
+Introducing "go-thoth", a package inspired by the Egyptian deity, Thoth, designed to generate unique and memorable names.
 
-Have no idea how to name your project? Or your pet robot? Don't worry! With go-thoth, you're going to rock your creativity!
+Struggling to name your new project or your latest robotic creation? Fear not! With go-thoth, you can unlock your creativity and find the perfect name.
 
-Remember the god Thoth? That smart guy from ancient Egypt, master of words and wisdom. Now, he's here to help you come up with awesome and unique names.
+### About Thoth
+Thoth, the ancient Egyptian god of wisdom and writing, was revered for his mastery over words. Drawing inspiration from Thoth, this package aims to help you create names that are not only unique but also imbued with a touch of divine wisdom.
 
-And best of all? It's open source! If you want to give it that special touch, just work your magic on the code and share it with the crowd.
+The best part? Go-thoth is open source! You can add your own special touch to the code and share your improvements with the community. For guidelines on how to contribute, please refer to our [Contributing Guidelines](CONTRIBUTING.md).
 
 To install go-thoth, simply run the following command in a terminal or command prompt:
 ```shell 
 go get github.com/aziontech/go-thoth
 ```
-This will download and install go-thoth on your machine and it will be ready to use in your Go projects. Have fun creating epic names with the power of the god Thoth! 🚀🔥🧙
+This command will download and install go-thoth on your system, making it readily available for use in your Go projects. Enjoy the process of creating unique and memorable names, empowered by the wisdom of the god Thoth! 🚀🔥🧙
 
