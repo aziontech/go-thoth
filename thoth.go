@@ -24,7 +24,7 @@ func random(el []string) string {
 // GenerateName generates a random name by combining random words from different categories.
 // It returns the generated name as a string and any error encountered during the process.
 func GenerateName() string {
-	name := random(GetAdjectives()) + "_" + random(GetNouns())
+	name := random(GetAdjectives()) + "-" + random(GetNouns())
 	name = strings.ToLower(name)
 	return name
 }
