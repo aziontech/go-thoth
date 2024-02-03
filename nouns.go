@@ -160,7 +160,6 @@ func GetNouns() []string {
 		"ArthurMorgan",
 		"JohnMarston",
 		"JavierEscuella",
-		"JavierEscuella",
 		"BillWilliamson",
 		"MicahBell",
 		"CharlesSmith",
@@ -174,10 +173,8 @@ func GetNouns() []string {
 		"AbigailRoberts",
 		"SusanGrimshaw",
 		"SimonPearson",
-		"SimonPearson",
 		"LeopoldStrauss",
 		"JosiahTrelawny",
-		"OrvilleSwanson",
 		"OrvilleSwanson",
 		"KieranDuffy",
 		"MollyOShea",
@@ -186,7 +183,5 @@ func GetNouns() []string {
 		"JennyKirk",
 		"Annabelle",
 		"BessieMatthews",
-		"BessieMatthews",
-
 	}
 }
