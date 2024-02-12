@@ -141,8 +141,6 @@ func GetNouns() []string {
 		"Boromir",
 		"Gollum",
 		"Saruman",
-		"Galadriel",
-		"Sauron",
 		"Bilbo",
 		"Thorin",
 		"Smaug",
