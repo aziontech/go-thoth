@@ -117,5 +117,18 @@ func GetAdjectives() []string {
 		"Tiny",
 		"Hidden",
 		"Singular",
+		"Cofounder",
+		"Leader",
+		"DeputyLeader",
+		"Hunter",
+		"Collector",
+		"Gunslinger",
+		"Adjutant",
+		"Administrator",
+		"Butcher",
+		"Cook",
+		"Accountant", 
+		"Moneylender",
+		"Priest",
 	}
 }
