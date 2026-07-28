@@ -206,7 +206,6 @@ func GetNouns() []string {
 		"Lamassu",
 		"Cherubim",
 		"Ophanim",
-		"Mothman",
 		"Nightshrike",
 		"Gravewing",
 		"BoneRoc",
@@ -368,6 +367,5 @@ func GetNouns() []string {
 		"Nanally",
 		"Sakiri",
 		"Skia",
-		"Chaos",
 	}
 }
